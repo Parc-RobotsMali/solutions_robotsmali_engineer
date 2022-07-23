@@ -1,4 +1,0 @@
-<launch>
-<node pkg="action_robot" type="action_server.py" name="action_server" output="screen" />
-<node pkg="task1_solution" type="action_client.py" name="task1_solution" />
-</launch>
