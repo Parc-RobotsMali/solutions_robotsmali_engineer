@@ -1,0 +1,13 @@
+# Goal
+float32[] traject_y
+float32[] traject_x
+
+---
+
+# Result
+string[] atteint
+
+---
+
+#Feedback
+string point

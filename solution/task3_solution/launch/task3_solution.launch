@@ -1,0 +1,9 @@
+<launch>
+<!-- local planner server launch : action_server -->
+
+<node pkg="action_robot" type="action_server.py" name="action_server" output="screen" />
+
+<!-- task3 solution file -->
+<node pkg="task3_solution" type="action_client.py" name="task3_solution" />
+
+</launch>
