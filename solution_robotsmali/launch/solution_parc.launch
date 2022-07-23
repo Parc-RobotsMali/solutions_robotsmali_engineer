@@ -1,0 +1,19 @@
+<!--  RobotsMali team Enginneer
+--> 
+
+<launch>
+
+<node pkg="solution_robotsmali" type="move_linear_point.py" name="move_linear_robot" output="screen">
+
+</node>
+
+<node pkg="solution_robotsmali" type="move_goal.py" name="move_goal" output="screen">
+</node>
+
+<!--<node pkg="solution_robotsmali" type="laser_node.py" name="laser_node" output="screen">
+</node> -->
+
+<!--<node pkg="solution_robotsmali" type="solution.py" name="solution_mali" output="screen">
+</node> -->
+
+</launch>

@@ -1,0 +1,6 @@
+# angle de balayage
+uint16 angle_min
+uint16 angle_max
+---
+# reponse du module mininum
+float32 reponse

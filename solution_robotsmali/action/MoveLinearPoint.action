@@ -1,0 +1,13 @@
+#but 
+float32 position_but_x
+float32 position_but_y
+---
+# resultat
+float32[] point_final_x
+float32[] point_final_y
+float32[] orientation_robot
+---
+# retour
+float32 position_actuel_x
+float32 position_actuel_y
+float32 orientation_robot
